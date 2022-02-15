@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title> On my way to becoming a Pro </title>
+<body style = "background-color: blue"> 
+    <h1 style = "color:red;font-size:xx-large; font-style: italic;font-family: Arial">This is the main heading</h1>
+    <h2 title="heading 2">This is the second heading</h2>
+    <h3 style = "text-align: center">This is the third heading</h3>
+    <strong>
+        
+        <p1 style ="background-color: black; color: white">This is paragraph one displayed in bold font</p1>
+        </strong>
+        <hr>
+        <hr>
+        <hr>
+        <p>This is a <br> paragraph with a line break.</p>
+   <a href="https://www.w3schools.com/html/html_basic.asp">html tutorial link</a>
+    <img src="https://www.w3schools.com/images/img_girl.jpg">
+    <pre>
+        This in line 1
+        <hr>
+        This in line 2 
+        <hr>
+        This in line 3
+    </pre>
+</body>
+
+</html>
